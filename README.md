@@ -1,5 +1,6 @@
 ##### Tugas-Aplikasi-Komputer
 Mencoba menggunakan Github 
 
-berikut tugas latex "pdf"
-[Tugas Latex](file:///D:/Aplikom/TUGAS_LATEX_Bintang_Mahija_Aryacetta_22305144003.pdf)
+berikut [Tugas Latex](https://github.com/Bintang3110/Tugas-Aplikasi-Komputer/blob/main/TUGAS_LATEX_Bintang_Mahija_Aryacetta_22305144003.pdf) "pdf"
+
+
