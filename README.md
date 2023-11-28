@@ -7,7 +7,7 @@ NIM: 22305144003
 Kelas  Matematika E 2022
 
 
-## -Mencoba menggunakan Github 
+### -Mencoba menggunakan Github 
 
 berikut adalah [Tugas Latex](TUGAS_LATEX_Bintang_Mahija_Aryacetta_22305144003.pdf) "pdf" yang telah di buat pada "Overleaf".
 
